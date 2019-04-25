@@ -4,6 +4,9 @@ This repository contains a 2QBF solver implemented in Haskell. It was created in
 
 # Using funqbf
 ### Installation
+Installtion requires that ``ghc`` and ``cabal-install`` are installed on your system. 
+
+To install, run:
 ```
 cabal new-install
 cabal new-build
